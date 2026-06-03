@@ -40,7 +40,7 @@ Managed end-to-end digital advertising campaigns, monitored KPIs, maintained rep
 
 ---
 
-### [📋 Traditional Commercials — Market Research Term Project](https://github.com/britneebayas/YOUR-REPO-LINK-HERE)
+### [📋 Traditional Commercials — Market Research Term Project](https://github.com/britneebayas/Traditional-Commercials)
 > *Survey Design | Qualtrics | SPSS | Statistical Analysis | Data Reporting*
 
 Designed and administered a primary research survey (n=26) examining the effectiveness of traditional commercials on television and streaming platforms. Conducted reliability analysis, GLM, correlation, and regression analysis in SPSS. Identified ad frequency and interactivity as the strongest predictors of ad recall and full ad viewing. Presented findings with actionable strategic recommendations.
