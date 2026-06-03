@@ -26,7 +26,7 @@ Managed a full social media takeover of the @socialmediamarketing_hofstra Instag
 
 ---
 
-### [🌍 EnglishHelper Global Marketing Strategy — X-Culture Team Project](https://github.com/britneebayas/YOUR-REPO-LINK-HERE)
+### [🌍 EnglishHelper Global Marketing Strategy — X-Culture Team Project](https://github.com/britneebayas/EnglishHelper-Global-Marketing-Strategy)
 > *Market Research | Competitor Analysis | Pricing Strategy | Promotion Planning*
 
 Collaborated with an international team across 5 countries to develop a go-to-market strategy for EnglishHelper, an AI-powered EdTech language learning platform. Responsible for SWOT analysis, competitor benchmarking, and in-app advertising strategy. Delivered pricing recommendations, promotion channel strategy, and a full marketing campaign framework targeting students and young professionals aged 16–30.
