@@ -54,7 +54,7 @@ Conducted a comprehensive marketing analysis of Tarte Cosmetics as part of MKT 1
 
 ---
 
-### [🌿 Bloom Video Campaign — Social Media Campaign Strategy](https://github.com/britneebayas/YOUR-REPO-LINK-HERE)
+### [🌿 Bloom Video Campaign — Social Media Campaign Strategy](https://github.com/britneebayas/Bloom-Video-Campaign)
 > *Video Campaign | Content Strategy | TikTok | Instagram | Gen Z Marketing | UGC*
 
 Collaborated with a six-person team to develop a full social media video campaign for Bloom Nutrition's Sparkling Energy drink line. Conducted a cross-platform social media audit identifying gaps in Instagram engagement and opportunities on TikTok and Snapchat. Conceptualized and produced a personality-driven can-toss video series built around the "Bloom helps me ___" format, featuring real-life use cases across fitness, dance, photography, and commuter settings. Designed a viral promotion plan targeting Gen Z and young Millennials with influencer tie-ins, UGC challenges, and a Mon–Wed launch cadence aligned with peak platform engagement. Defined success metrics including reach, impressions, completion rate, and follower growth benchmarked against Celsius and Alani Nu.
