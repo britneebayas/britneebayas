@@ -47,7 +47,7 @@ Designed and administered a primary research survey (n=26) examining the effecti
 
 ---
 
-### [💄 Tarte Cosmetics — Brand & Marketing Analysis](https://github.com/britneebayas/YOUR-REPO-LINK-HERE)
+### [💄 Tarte Cosmetics — Brand & Marketing Analysis](https://github.com/britneebayas/Tarte-Cosmetics)
 > *Brand Strategy | SWOT Analysis | Influencer Marketing | Social Media | Market Research*
 
 Conducted a comprehensive marketing analysis of Tarte Cosmetics as part of MKT 141. Examined the brand's history, product portfolio, target audience (women aged 18–34, Gen Z and Millennials), and competitive positioning against Fenty Beauty, Too Faced, and Glossier. Analyzed Tarte's influencer marketing strategy including the viral #TrippinWithTarte campaign, open affiliate model on TikTok Shop, and virtual try-on technology that drove a **200% sales increase**. Evaluated market opportunities including subscription box expansion, product customization, and international growth strategy.
