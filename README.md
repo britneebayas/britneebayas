@@ -19,7 +19,7 @@ Developed a full-scale experiential marketing campaign for Amazon Prime targetin
 
 ---
 
-### [📱 Social Media Marketing Simternship Certificate - Project](https://github.com/britneebayas/YOUR-REPO-LINK-HERE)
+### [📱 Social Media Marketing Simternship Certificate - Project](https://github.com/britneebayas/simtermship)
 > *Social Media Strategy | Analytics | Content Management | Performance Tracking*
 
 Managed a full social media takeover of the @socialmediamarketing_hofstra Instagram and Facebook accounts. Conducted a pre-takeover audit analyzing brand voice, tone, and baseline metrics. Tracked performance across the takeover week and delivered a comprehensive report with reflections and recommendations. Helped drive **927,852 impressions** and **$63,970 in revenue** through strategic campaign execution.
