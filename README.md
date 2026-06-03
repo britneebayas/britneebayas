@@ -33,7 +33,7 @@ Collaborated with an international team across 5 countries to develop a go-to-ma
 
 ---
 
-### [📊 Digital Marketing Simternship Certificate - Project](https://github.com/britneebayas/YOUR-REPO-LINK-HERE)
+### [📊 Digital Marketing Simternship Certificate - Project](https://github.com/britneebayas/Digital-Marketing-Simternship)
 > *Campaign Management | KPI Tracking | Digital Advertising | Budget Optimization*
 
 Managed end-to-end digital advertising campaigns, monitored KPIs, maintained reporting records, and optimized campaign performance through data analysis. Generated **$167,635 in total revenue** through strategic ad creation and performance-driven decision-making.
